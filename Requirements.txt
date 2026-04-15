@@ -1,0 +1,13 @@
+
+
+# 📦 Requirements (Important)
+
+Since this is **Java project**, you don’t need `requirements.txt` like Python.
+
+## ✅ Instead mention this:
+
+```md
+## ⚙️ Requirements
+
+- Java JDK 8 or above
+- Any OS (Windows/Linux/Mac)
